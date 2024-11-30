@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RifkiSuprianto
 - 👀 I’m interested in 3d animation, game design, and open-source projects.
-- 🌱 I’m currently learning Python and UI/UX design.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on open-source Blender add-ons. 
 - 📫 How to reach me at rifkisuprianto2002@gmail.com or Instagram @rfkkii__3d.
 - 😄 Pronouns: He/Him
